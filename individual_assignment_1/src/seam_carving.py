@@ -1,5 +1,5 @@
 """
-Note: this code is adapted from these two repository.
+Note: this code is adapted from these two repositories.
 Resource:
 - https://karthikkaranth.me/blog/implementing-seam-carving-with-python/
 - https://github.com/andrewdcampbell/seam-carving
