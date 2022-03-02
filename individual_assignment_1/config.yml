@@ -1,0 +1,23 @@
+# Set seam color (RGB)
+seam_color: [255, 0, 0]
+# Weather downsize input images for fast cropping
+downsize: true
+# Downsize images' width
+downsize_width: 512
+
+# Image paths
+input_path: ../image/
+output_path: ../output/
+
+# Image names
+input_name: apu2.jpg
+output_energy_name: energy/energy_map
+output_seam_name: seams/seam_line
+output_full_seams: full_seams.jpg
+output_name: retargeting.jpg
+output_std_resize: std_resize.jpg
+output_time: time_consumption.jpg
+
+# Parameters
+rescale: 0.7
+vis: true
